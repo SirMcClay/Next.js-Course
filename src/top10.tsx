@@ -1,3 +1,5 @@
+// Excluded from /pages because this is a example page
+
 import { GetStaticProps } from "next"
 
 interface IProduct {
